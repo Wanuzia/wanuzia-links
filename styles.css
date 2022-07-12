@@ -83,6 +83,9 @@
   ul li a:hover {
     background: var(--primary-color-dark);
   }
+  ul li a svg {
+    margin: 5px;
+  }
   footer {
     font-weight: 500;
     font-size: 12px;
