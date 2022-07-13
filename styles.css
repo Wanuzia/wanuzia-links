@@ -80,6 +80,7 @@
     border-radius: 6px;
     transition: background 400ms;
   }
+  
   ul li a:hover {
     background: var(--primary-color-dark);
   }
